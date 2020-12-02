@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.charuwaka.poctemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.charuwaka.poctemplate.MyBundle
 
 class MyApplicationService {
 
